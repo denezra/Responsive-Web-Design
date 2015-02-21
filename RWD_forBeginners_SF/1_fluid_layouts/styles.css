@@ -1,0 +1,28 @@
+/*styles*/
+
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	font: 100%/1.5em Helvetica, Arial, sans-serif;
+	color: #313131;
+}
+
+.container {
+	background: #edede1;
+}
+
+section {
+	
+}
+
+aside {
+	background: #d1d1c1;
+}
+
+footer {
+	
+}
